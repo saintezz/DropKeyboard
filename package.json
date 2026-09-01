@@ -1,7 +1,7 @@
 {
-  "name": "case-spinner-server",
+  "name": "case-spinner-telegram",
   "version": "1.0.0",
-  "description": "Case Spinner with global drops, inventory and users",
+  "description": "Case Spinner for Telegram Mini App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
